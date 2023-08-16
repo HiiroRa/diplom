@@ -1,0 +1,80 @@
+* {
+    font-family: 'Comfortaa', cursive;
+
+    font-size:large;
+}
+
+body {
+    margin-top: 1.5%;
+    background-image: url("/img/background.png");
+    background-size: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+
+    color:#131925;
+}
+
+
+img.logo{
+    width: 50px;
+}
+
+img.baner{
+    width: 105%;
+}
+
+img.blog{
+    width: 100%;
+    
+}
+
+.testing-card{
+    background-color: #dae6e9 !important;
+}
+
+
+.table{
+    --bs-table-bg:  hsla(194, 26%, 81%, 0.35) !important;
+}
+
+
+.blog-card{
+    background-color: hsla(205, 33%, 60%, 0.35);
+}
+
+.navbar{
+    background-color: #131925;
+}
+
+.test-card{
+    background-color: hsla(205, 33%, 60%, 0.35);
+}
+
+.test-table-admin{
+    background-color: hsla(194, 26%, 81%, 0.35);
+}
+
+.card-admin{
+    background-color: hsla(194, 26%, 81%, 0.35);
+}
+
+a{
+    color: #000000;
+    text-decoration: none;
+    font-size: large;
+}
+
+a.text-2{
+    color: #2d4b84;
+
+    font-size: x-large;
+}
+
+.btn-my{
+    --bs-btn-font-size: .50rem;
+}
+
+.form-check{
+    font-size: large;
+    margin-top: 2%;
+}
